@@ -13,6 +13,7 @@ warnings.filterwarnings("ignore", message="numpy.dtype size changed")
 
 from . import api  # NOQA
 from . import tools  # NOQA
+from .entities import *
 
 
 
